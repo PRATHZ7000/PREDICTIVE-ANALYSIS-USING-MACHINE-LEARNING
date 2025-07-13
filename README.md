@@ -95,7 +95,7 @@ Run all cells to view the analysis and results.
 
 # Author
 Name: Prathamesh Murkute
-Task: PREDICTIVE-ANALYSIS-USING-MACHINE-LEARNING - Task 3
+Task: PREDICTIVE-ANALYSIS-USING-MACHINE-LEARNING - Task 2
 Platform: Google Colab
 
 # License
