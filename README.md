@@ -77,3 +77,27 @@ R² score was used to evaluate goodness-of-fit.
 This project demonstrates a simple yet effective application of machine learning in predicting numerical outcomes. It highlights the importance of preprocessing, data exploration, and model evaluation. The use of Linear Regression provided baseline results, and the visualizations aided in understanding model behavior.
 
 Future work could involve testing more complex regression models (like Random Forests or Gradient Boosting), hyperparameter tuning, or feature selection methods to further enhance performance.
+
+# Technologies Used
+•	Python 3.10+
+•	Google Colab (for development and execution)
+•	Libraries:
+o	pandas
+o	numpy
+o	matplotlib (if visualization is included)
+
+# How to Run
+1.	Clone the repository:
+git clone https://github.com/yourusername/your-repo-name.git
+Open the .py script in Google Colab or Jupyter Notebook.
+Upload the TripAdvisor dataset (tripadvisor_hotel_reviews.csv) if not already available.
+Run all cells to view the analysis and results.
+
+# Author
+Name: Prathamesh Murkute
+Task: PREDICTIVE-ANALYSIS-USING-MACHINE-LEARNING - Task 3
+Platform: Google Colab
+
+# License
+This project is licensed under the MIT License.
+
